@@ -11,6 +11,7 @@
   "dependencies": {
     "@mdi/font": "^7.4.47",
     "apexcharts": "^3.46.0",
+    "axios": "^1.6.7",
     "mdi-vue": "^3.0.13",
     "mdi-vue3": "^7.4.47",
     "pinia": "^2.1.7",
